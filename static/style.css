@@ -1,8 +1,8 @@
 #greet {
-  color: white;
+  color: red;
 }
 
-body {
+html {
   background: url("cupcake.jpg") no-repeat center center fixed;
 
   background-size: cover;
