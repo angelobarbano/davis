@@ -1,8 +1,9 @@
 #greet {
-  color: red;
+  color: white;
 }
 
 body {
-  background: url("cupcake.jpg");
-  background-size: auto;
+  background: url("cupcake.jpg") no-repeat center center fixed;
+
+  background-size: cover;
 }
